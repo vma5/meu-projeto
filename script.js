@@ -12,6 +12,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Ação para o botão "Não" (opcional: faz algo divertido)
     naoBtn.addEventListener('click', () => {
-        alert("Ops, parece que o botão 'Não' está com defeito! 😜 Tente o 'Sim'!");
+        alert("Ops, parece que essa opção 'não' é aceitavel! 😜 Tente o 'Sim'!");
     });
 });

@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #ffe6f2; /* Cor de fundo rosa suave */
+    background-color: #cdfadb; /* Cor de fundo rosa suave */
     color: #4a235a; /* Roxo escuro */
     margin: 0;
     text-align: center;
@@ -27,16 +27,16 @@ body {
 
 h1 {
     font-size: 2.5em;
-    color: #e91e63; /* Rosa vibrante */
+    color: #3d1ee9; /* Rosa vibrante */
 }
 
 p {
     font-size: 1.2em;
-    color: #6a0572;
+    color: #150572;
 }
 
 button {
-    background-color: #e91e63;
+    background-color: #1ee91e;
     color: #fff;
     border: none;
     padding: 15px 30px;
@@ -48,14 +48,14 @@ button {
 }
 
 #simBtn:hover {
-    background-color: #d81b60;
+    background-color: #3e1bd8;
     transform: scale(1.1); /* Efeito de crescimento */
 }
 
 #naoBtn {
     background-color: #f0f0f0;
-    color: #e91e63;
-    border: 2px solid #e91e63;
+    color: #1ee96c;
+    border: 2px solid #1ee969;
 }
 
 #naoBtn:hover {
